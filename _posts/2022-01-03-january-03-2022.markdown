@@ -1,0 +1,44 @@
+---
+layout: weekdays
+title: "January 3rd, 2022"
+date: 2022-01-02 19:33:20 +0300
+description: The holidays are over. # Add post description (optional)
+img:  http://placekitten.com/752/300 # Add image post (optional)
+---
+
+## Breakfast
+
+![Breakfast](http://placekitten.com/200/300){: .image-left }
+
+**Caffeine:**<br>
+8 grams Raspberry Pie GFuel *(17 calories)*
+
+**Pre-breakfast snack:**<br>
+1 Caramel Rice Cake *(50 calories)*
+
+**Breakfast:**<br>
+100 grams Fage plain yogurt<br>
+72 grams frozen blueberries<br>
+*(180 calories)*
+
+<hr class="section-line">
+
+## Lunch
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
