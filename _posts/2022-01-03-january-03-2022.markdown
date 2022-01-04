@@ -17,28 +17,57 @@ img:  http://placekitten.com/752/300 # Add image post (optional)
 1 Caramel Rice Cake *(50 calories)*
 
 **Breakfast:**<br>
-100 grams Fage plain yogurt<br>
+177 grams Fage plain yogurt<br>
 72 grams frozen blueberries<br>
-*(180 calories)*
+*(132 calories)*
+
+**Total Breakfast:** 199 Calories
 
 <hr class="section-line">
 
 ## Lunch
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+78g salad greens<br>
+61g salsa<br>
+5oz grilled chicken breasts<br>
 
-Jekyll also offers powerful support for code snippets:
+**Total Lunch:** 196 Calories
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+<hr class="section-line">
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## Dinner
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+**I celebrated a fantasy football victory:**<br>
+12oz Beer - 4.8% ABV *(~144 calories)*
+12oz Beer - 6.5% ABV *(~195 calories)*
+
+**And ate some food:**<br>
+1 thai lettuce wrap *(~85 calories)*<br>
+Tofu & veggie bowl with greens and sriracha aioli *(~400 calories)*
+
+**Then I stopped drinking:**<br>
+12oz Huckleberry Kombucha *(45 calories)*
+
+**Total Dinner:** 869 Calories
+
+<hr class="section-line">
+
+## Snacks
+
+**I was hungry after I worked out:**<br>
+160g apple *(84 calories)*
+
+**And hungry after dinner:**<br>
+1 caramel rice cake *(50 calories)*
+
+**Total Snacks:** 134 Calories
+
+<hr class="section-line">
+
+## Fitness
+
+<iframe src='https://connect.garmin.com/modern/activity/embed/8055794303' title='30 min Power Zone Endurance Ride with Denis Morton' width='465' height='270' frameborder='0'></iframe>
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/6467743535/embed/d32b4af144162994eb4a6693c40cbadc66324726'></iframe>
+
+<hr class="section-line">
