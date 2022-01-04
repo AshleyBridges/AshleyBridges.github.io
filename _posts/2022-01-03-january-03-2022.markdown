@@ -3,7 +3,7 @@ layout: weekdays
 title: "January 3rd, 2022"
 date: 2022-01-02 19:33:20 +0300
 description: The holidays are over. # Add post description (optional)
-img:  http://placekitten.com/752/300 # Add image post (optional)
+img: # Add image post (optional)
 ---
 
 ## Breakfast
