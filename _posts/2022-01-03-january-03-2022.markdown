@@ -8,8 +8,6 @@ img:  http://placekitten.com/752/300 # Add image post (optional)
 
 ## Breakfast
 
-![Breakfast](http://placekitten.com/200/300){: .image-left }
-
 **Caffeine:**<br>
 8 grams Raspberry Pie GFuel *(17 calories)*
 
@@ -68,6 +66,6 @@ Tofu & veggie bowl with greens and sriracha aioli *(~400 calories)*
 
 <iframe src='https://connect.garmin.com/modern/activity/embed/8055794303' title='30 min Power Zone Endurance Ride with Denis Morton' width='465' height='270' frameborder='0'></iframe>
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/6467743535/embed/d32b4af144162994eb4a6693c40cbadc66324726'></iframe>
+<iframe src='https://connect.garmin.com/modern/activity/embed/8055794260' title='5 min Core Strength with Emma Lovewell' width='465' height='270' frameborder='0'></iframe>
 
 <hr class="section-line">
